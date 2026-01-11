@@ -15,7 +15,7 @@ I have arranged my codes in a sequence to show my learning curve:
 - **05_check_greatest_number.py** - Using `if-elif-else` for decision making.
 - **06_grade_calculator.py** - Complex logic using multiple conditions (`elif`).
 - **07_voting_eligibility.py** - Using `if-else for decision making.
-- **08_08_brand_identifier.py** - Complex logic using multiple conditions.
+- **08_brand_identifier.py** - Complex logic using multiple conditions.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
