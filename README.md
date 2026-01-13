@@ -16,6 +16,8 @@ I have arranged my codes in a sequence to show my learning curve:
 - **06_grade_calculator.py** - Complex logic using multiple conditions (`elif`).
 - **07_voting_eligibility.py** - Using `if-else for decision making.
 - **08_brand_identifier.py** - Complex logic using multiple conditions.
+- **09_simple_or_conditional_greeting.py**- chat bot
+- #***10_student_id_card.py***-(mini project)
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
