@@ -18,10 +18,9 @@ I have arranged my codes in a sequence to show my learning curve:
 - **08_brand_identifier.py** - Complex logic using multiple conditions.
 - **09_simple_or_conditional_greeting.py**- chat bot
 - ### 10_student_id_card.py-(mini project)
-- # Phase 3: Data Structures (Lists & Tuples) 📦
-
-* **11_List_Operations.py** - Learning how to store multiple items, loops, and list methods (append, pop, sort).
-* **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
+  # Phase 3: Data Structures (Lists & Tuples) 📦
+- **11_List_Operations.py** - Learning how to store multiple items, loops, and list methods (append, pop, sort).
+- **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
