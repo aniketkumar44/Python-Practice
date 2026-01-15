@@ -21,6 +21,8 @@ I have arranged my codes in a sequence to show my learning curve:
   # Phase 3: Data Structures (Lists & Tuples) 📦
 - **11_List_Operations.py** - Learning how to store multiple items, loops, and list methods (append, pop, sort).
 - **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
+- **13_Tuple_Creation.py** - Understanding basic syntax and single-item tuple rule.
+- **14_Tuple_Slicing.py** - Learning how to access specific items and join tuples.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
