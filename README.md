@@ -23,6 +23,8 @@ I have arranged my codes in a sequence to show my learning curve:
 - **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
 - **13_Tuple_Creation.py** - Understanding basic syntax and single-item tuple rule.
 - **14_Tuple_Slicing.py** - Learning how to access specific items and join tuples.
+- **15_Tuple_Functions.py** - Using built-in tools like len, sum, and nested tuples.
+- **16_Tuple_Projects.py** - Real-world logic: Student Grade Counter & TV Channel Finder.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
