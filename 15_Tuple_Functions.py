@@ -1,0 +1,12 @@
+# tuple function
+t3=tuple()
+print("t3 = ",t3)
+t3=tuple('IGNOU')
+print("t3 = ",t3)
+t4=(1,2,3,4)
+nested_t=(t3,t4)
+print("nested_t = ",nested_t)
+print("Len (t3) = ",len(t3))
+print("Sum (t4) = ",sum(t4))
+t5=sorted(t3)
+print("t5 = ",t5)
