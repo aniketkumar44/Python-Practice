@@ -25,6 +25,10 @@ I have arranged my codes in a sequence to show my learning curve:
 - **14_Tuple_Slicing.py** - Learning how to access specific items and join tuples.
 - **15_Tuple_Functions.py** - Using built-in tools like len, sum, and nested tuples.
 - **16_Tuple_Projects.py** - Real-world logic: Student Grade Counter & TV Channel Finder.
+ ### Phase 4: Data Structures (Dictionaries & Sets) 📚
+
+* **17_Dictionary_Sets_Basics.py** - Understanding Key-Value pairs and Sets (removing duplicates).
+* **18_Subject_Marks_Store.py** - Project: Taking user input and updating a dictionary dynamically.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
