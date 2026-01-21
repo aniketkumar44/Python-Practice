@@ -18,17 +18,19 @@ I have arranged my codes in a sequence to show my learning curve:
 - **08_brand_identifier.py** - Complex logic using multiple conditions.
 - **09_simple_or_conditional_greeting.py**- chat bot
 - ### 10_student_id_card.py-(mini project)
-  # Phase 3: Data Structures (Lists & Tuples) 📦
+# **Phase 3: Data Structures (Lists & Tuples) 📦
 - **11_List_Operations.py** - Learning how to store multiple items, loops, and list methods (append, pop, sort).
 - **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
 - **13_Tuple_Creation.py** - Understanding basic syntax and single-item tuple rule.
 - **14_Tuple_Slicing.py** - Learning how to access specific items and join tuples.
 - **15_Tuple_Functions.py** - Using built-in tools like len, sum, and nested tuples.
 - **16_Tuple_Projects.py** - Real-world logic: Student Grade Counter & TV Channel Finder.
- ### Phase 4: Data Structures (Dictionaries & Sets) 📚
+# **Phase 4: Data Structures (Dictionaries & Sets) 📚
 
 * **17_Dictionary_Sets_Basics.py** - Understanding Key-Value pairs and Sets (removing duplicates).
 * **18_Subject_Marks_Store.py** - Project: Taking user input and updating a dictionary dynamically.
+* **19_Dictionary_Methods.py** - Advanced methods: keys(), values(), items(), and get().
+* **20_Set_Operations.py** - Learning Set Math: Union, Intersection, and Difference.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
