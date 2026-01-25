@@ -7,9 +7,11 @@ This repository documents my journey of learning Python programming from scratch
 I have arranged my codes in a sequence to show my learning curve:
 
 # **Phase 1: The Foundation (Basics)**
+
 - **01_Basic_Calculators.py** - Basic mathematical operations and formulas.
 - **02_Simple_Shop_Bill.py** - A simple billing logic without conditions.
 # **Phase 2: Logic Building (Control Flow)**
+
 - **03_Odd_Even_Logic.py** - Using `if-else` for decision making.
 - **04_check_multiple_number.py** - Using `if-else` for decision making.
 - **05_check_greatest_number.py** - Using `if-elif-else` for decision making.
@@ -19,6 +21,7 @@ I have arranged my codes in a sequence to show my learning curve:
 - **09_simple_or_conditional_greeting.py**- chat bot
 - ### 10_student_id_card.py-(mini project)
 # **Phase 3: Data Structures (Lists & Tuples) 📦**
+
 - **11_List_Operations.py** - Learning how to store multiple items, loops, and list methods (append, pop, sort).
 - **12_Movie_Palindrome_List.py** - Projects: User Input List & Palindrome Checker Logic.
 - **13_Tuple_Creation.py** - Understanding basic syntax and single-item tuple rule.
@@ -31,6 +34,11 @@ I have arranged my codes in a sequence to show my learning curve:
 * **18_Subject_Marks_Store.py** - Project: Taking user input and updating a dictionary dynamically.
 * **19_Dictionary_Methods.py** - Advanced methods: keys(), values(), items(), and get().
 * **20_Set_Operations.py** - Learning Set Math: Union, Intersection, and Difference.
+# **Phase 5: Loops & Iterations (Control Flow Part 2) 🔄**
+
+* **21_While_Loop_Basics.py** - Learning `while` loop syntax and creating a User Login System.
+* **22_For_Loop_Range.py** - Using `range()` for sequences and finding Even/Odd numbers.
+* **23_Loop_ practice_Logic.py** - Logic Building: Multiplication Table, Factorial Calculation, and Linear Search.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
