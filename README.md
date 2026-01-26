@@ -38,7 +38,8 @@ I have arranged my codes in a sequence to show my learning curve:
 
 * **21_While_Loop_Basics.py** - Learning `while` loop syntax and creating a User Login System.
 * **22_For_Loop_Range.py** - Using `range()` for sequences and finding Even/Odd numbers.
-* **23_Loop_ practice_Logic.py** - Logic Building: Multiplication Table, Factorial Calculation, and Linear Search.
+* **23_Loop_Math_practice.py** - Logic Building: Multiplication Table and Factorial calculation.
+* **24_List_Search_Logic.py** - Implementing 'Linear Search' to find data in a list.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** VS Code, IDLE
