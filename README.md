@@ -49,7 +49,8 @@ Here are my best projects where I applied my logic and coding skills:
 * **22_For_Loop_Range.py** - Using `range()` for sequences and finding Even/Odd numbers.
 * **23_Loop_Math_practice.py** - Logic Building: Multiplication Table and Factorial calculation.
 * **24_List_Search_Logic.py** - Implementing 'Linear Search' to find data in a list.
+* **25_PROJECT_Canteen_Bill.py** - **(Major Project)** Upgraded Billing System V2.0. Handles multiple customers using loops & calculates Day-End Sales.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
-- **Tools:** VS Code, IDLE
+- **Tools:** IDLE
 *Thanks for visiting! Feel free to check my code.*
