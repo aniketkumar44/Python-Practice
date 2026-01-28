@@ -8,13 +8,15 @@ I have arranged my codes in a sequence to show my learning curve:
 ## 🏆 Featured Projects (Highlights)
 
 Here are my best projects where I applied my logic and coding skills:
+## 🏆 Featured Projects (Highlights)
 
-| Project Name | Description | Concepts Used |
-| :--- | :--- | :--- |
-| **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` |
+Here are my best projects where I applied my logic and coding skills:
+
+| Project Name | Description | Concepts Used | Code Link |
+| :--- | :--- | :--- | :--- |
+| **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` | [📄 View Code](./25_PROJECT_Canteen_Bill.py) |
 
 ---
-
 # **Phase 1: The Foundation (Basics)**
 
 - **01_Basic_Calculators.py** - Basic mathematical operations and formulas.
