@@ -5,6 +5,15 @@ This repository documents my journey of learning Python programming from scratch
 
 # 📂 Project Roadmap (Step-by-Step)
 I have arranged my codes in a sequence to show my learning curve:
+## 🏆 Featured Projects (Highlights)
+
+Here are my best projects where I applied my logic and coding skills:
+
+| Project Name | Description | Concepts Used |
+| :--- | :--- | :--- |
+| **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` |
+
+---
 
 # **Phase 1: The Foundation (Basics)**
 
