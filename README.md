@@ -8,9 +8,6 @@ I have arranged my codes in a sequence to show my learning curve:
 ## 🏆 Featured Projects (Highlights)
 
 Here are my best projects where I applied my logic and coding skills:
-## 🏆 Featured Projects (Highlights)
-
-Here are my best projects where I applied my logic and coding skills:
 
 | Project Name | Description | Concepts Used | Code Link |
 | :--- | :--- | :--- | :--- |
@@ -52,6 +49,7 @@ Here are my best projects where I applied my logic and coding skills:
 * **23_Loop_Math_practice.py** - Logic Building: Multiplication Table and Factorial calculation.
 * **24_List_Search_Logic.py** - Implementing 'Linear Search' to find data in a list.
 * **25_PROJECT_Canteen_Bill.py** - **(Major Project)** Upgraded Billing System V2.0. Handles multiple customers using loops & calculates Day-End Sales.
+* **26_Basic_Star_Patterns.py** - Logic Building: Creating visual patterns (Square, Triangle) using Nested Loops.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** IDLE
