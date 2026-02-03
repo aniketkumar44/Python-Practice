@@ -51,7 +51,8 @@ Here are my best projects where I applied my logic and coding skills:
 * **25_PROJECT_Canteen_Bill.py** - **(Major Project)** Upgraded Billing System V2.0. Handles multiple customers using loops & calculates Day-End Sales.
 * **26_Basic_Star_Patterns.py** - Logic Building: Creating visual patterns (Square, Triangle) using Nested Loops.
 * **27_Login_System.py** - Created a secure login loop using `while True` and `break` statement.
-* **28_Pattern_Logic.py** - Logic building using Star Patterns (Triangle, Reverse, Square).  
+* **28_Pattern_Logic.py** - Logic building using Star Patterns (Triangle, Reverse, Square).
+* **29_Menu_Calculator.py** - Created a continuous Menu-Driven program using infinite loop and choice handling.  
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** IDLE
