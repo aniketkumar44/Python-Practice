@@ -12,6 +12,7 @@ Here are my best projects where I applied my logic and coding skills:
 | Project Name | Description | Concepts Used | Code Link |
 | :--- | :--- | :--- | :--- |
 | **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` | [📄 View Code](./25_PROJECT_Canteen_Bill.py) |
+| ** 🏧 ATM Machine Simulation** |  A secure banking system with 3-layer PIN security, withdrawal validation, infinite menu loop, and balance tracking.  `Nested Loops`, `If-Else`, `BreakContinue`, `Math Logic`  [📄 View Code](30_ATM_Project.py) 
 
 ---
 # **Phase 1: The Foundation (Basics)**
@@ -52,7 +53,8 @@ Here are my best projects where I applied my logic and coding skills:
 * **26_Basic_Star_Patterns.py** - Logic Building: Creating visual patterns (Square, Triangle) using Nested Loops.
 * **27_Login_System.py** - Created a secure login loop using `while True` and `break` statement.
 * **28_Pattern_Logic.py** - Logic building using Star Patterns (Triangle, Reverse, Square).
-* **29_Menu_Calculator.py** - Created a continuous Menu-Driven program using infinite loop and choice handling.  
+* **29_Menu_Calculator.py** - Created a continuous Menu-Driven program using infinite loop and choice handling.
+* **30_ATM_Project_Final.py** - The Grand Project: A fully functional ATM System with 3-Layer Security, Nested Loops, and Banking Transactions.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** IDLE
