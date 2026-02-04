@@ -12,7 +12,7 @@ Here are my best projects where I applied my logic and coding skills:
 | Project Name | Description | Concepts Used | Code Link |
 | :--- | :--- | :--- | :--- |
 | **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` | [📄 View Code](./25_PROJECT_Canteen_Bill.py) |
-| ** 🏧 ATM Machine Simulation** |  A secure banking system with 3-layer PIN security, withdrawal validation, infinite menu loop, and balance tracking.|`Nested Loops`, `If-Else`, `BreakContinue`, `Math Logic` | [📄 View Code](30_ATM_Project.py) |
+| **🏧 ATM Machine Simulation** |  A secure banking system with 3-layer PIN security, withdrawal validation, infinite menu loop, and balance tracking.|`Nested Loops`, `If-Else`, `BreakContinue`, `Math Logic` | [📄 View Code](30_ATM_Project.py) |
 
 ---
 # **Phase 1: The Foundation (Basics)**
