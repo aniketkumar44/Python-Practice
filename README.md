@@ -13,6 +13,7 @@ Here are my best projects where I applied my logic and coding skills:
 | :--- | :--- | :--- | :--- |
 | **🍔 Canteen Management System** | A billing software that handles multiple customers, calculates discounts, and generates a Day-End Sales Report. | `While Loop`, `If-Else`, `Calculations` | [📄 View Code](./25_PROJECT_Canteen_Bill.py) |
 | **🏧 ATM Machine Simulation** |  A secure banking system with 3-layer PIN security, withdrawal validation, infinite menu loop, and balance tracking.|`Nested Loops`, `If-Else`, `BreakContinue`, `Math Logic` | [📄 View Code](30_ATM_Project.py) |
+| **🎓 Student Marks Manager** | A command-line application to add, view, search, and save student records permanently into a text file. | `Dictionaries`, `File Handling`, `While Loop` | [📄 View Code](31_STUDENT_MARKS_MANAGER.py) |
 
 ---
 # **Phase 1: The Foundation (Basics)**
@@ -55,6 +56,9 @@ Here are my best projects where I applied my logic and coding skills:
 * **28_Pattern_Logic.py** - Logic building using Star Patterns (Triangle, Reverse, Square).
 * **29_Menu_Calculator.py** - Created a continuous Menu-Driven program using infinite loop and choice handling.
 * **30_ATM_Project_Final.py** - The Grand Project: A fully functional ATM System with 3-Layer Security, Nested Loops, and Banking Transactions.
+# **Phase 6: File Handling & Data Management 💾**
+
+* **31_STUDENT_MARKS_MANAGER.py** - **(Major Project)** Created a Student Management System that saves data permanently into a `.txt` file using Python File Handling and Dictionaries.
 ### 🛠️ Tech Stack
 - **Language:** Python 3.14
 - **Tools:** IDLE
